@@ -22,4 +22,4 @@ This project was created using Lovable AI through prompt-based development.
 ## Author
 
 Mithra V G
-B.Sc. Artificial Intelligence & Data Science
+
